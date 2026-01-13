@@ -17,6 +17,6 @@ problems/
 
 ## Progress
 
-- Easy: 2
+- Easy: 4
 - Medium: 0
 - Hard: 0
